@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\animal\bin\Debug\animal.exe.config
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\animal\bin\Debug\animal.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\animal\bin\Debug\animal.pdb
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\animal\obj\Debug\animal.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\animal\obj\Debug\animal.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\animal\obj\Debug\animal.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\animal\obj\Debug\animal.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\animal\obj\Debug\animal.pdb

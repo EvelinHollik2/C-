@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\2023-02-06\bin\Debug\2023-02-06.exe.config
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\2023-02-06\bin\Debug\2023-02-06.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\2023-02-06\bin\Debug\2023-02-06.pdb
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\2023-02-06\obj\Debug\2023-02-06.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\2023-02-06\obj\Debug\2023-02-06.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\2023-02-06\obj\Debug\2023-02-06.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\2023-02-06\obj\Debug\2023-02-06.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\2023-02-06\obj\Debug\2023-02-06.pdb

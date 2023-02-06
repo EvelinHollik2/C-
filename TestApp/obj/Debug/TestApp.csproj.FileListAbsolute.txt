@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\TestApp\bin\Debug\TestApp.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\TestApp\bin\Debug\TestApp.pdb
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\TestApp\obj\Debug\TestApp.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\TestApp\obj\Debug\TestApp.pdb

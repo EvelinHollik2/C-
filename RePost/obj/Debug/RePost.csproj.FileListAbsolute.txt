@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\RePost\bin\Debug\RePost.exe.config
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\RePost\bin\Debug\RePost.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\RePost\bin\Debug\RePost.pdb
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\RePost\obj\Debug\RePost.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\RePost\obj\Debug\RePost.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\RePost\obj\Debug\RePost.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\RePost\obj\Debug\RePost.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\RePost\obj\Debug\RePost.pdb

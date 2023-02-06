@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\Run\bin\Debug\Run.exe.config
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\Run\bin\Debug\Run.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\Run\bin\Debug\Run.pdb
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\Run\obj\Debug\Run.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\Run\obj\Debug\Run.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\Run\obj\Debug\Run.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\Run\obj\Debug\Run.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\Run\obj\Debug\Run.pdb

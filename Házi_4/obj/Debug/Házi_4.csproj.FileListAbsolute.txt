@@ -1,0 +1,8 @@
+C:\Users\Evelin\Desktop\suli\KAR\C#\Házi_3\Házi_4\bin\Debug\Házi_4.exe.config
+C:\Users\Evelin\Desktop\suli\KAR\C#\Házi_3\Házi_4\bin\Debug\Házi_4.exe
+C:\Users\Evelin\Desktop\suli\KAR\C#\Házi_3\Házi_4\bin\Debug\Házi_4.pdb
+C:\Users\Evelin\Desktop\suli\KAR\C#\Házi_3\Házi_4\obj\Debug\Házi_4.csproj.AssemblyReference.cache
+C:\Users\Evelin\Desktop\suli\KAR\C#\Házi_3\Házi_4\obj\Debug\Házi_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Evelin\Desktop\suli\KAR\C#\Házi_3\Házi_4\obj\Debug\Házi_4.csproj.CoreCompileInputs.cache
+C:\Users\Evelin\Desktop\suli\KAR\C#\Házi_3\Házi_4\obj\Debug\Házi_4.exe
+C:\Users\Evelin\Desktop\suli\KAR\C#\Házi_3\Házi_4\obj\Debug\Házi_4.pdb

@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\2023-02-09\2023-02-09 házi_11\bin\Debug\házi_11.exe.config
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\2023-02-09\2023-02-09 házi_11\bin\Debug\házi_11.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\2023-02-09\2023-02-09 házi_11\bin\Debug\házi_11.pdb
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\2023-02-09\2023-02-09 házi_11\obj\Debug\Házi_11.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\2023-02-09\2023-02-09 házi_11\obj\Debug\Házi_11.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\2023-02-09\2023-02-09 házi_11\obj\Debug\Házi_11.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\2023-02-09\2023-02-09 házi_11\obj\Debug\házi_11.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\2023-02-09\2023-02-09 házi_11\obj\Debug\házi_11.pdb

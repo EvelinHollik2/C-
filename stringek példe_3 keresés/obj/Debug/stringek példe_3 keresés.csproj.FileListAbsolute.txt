@@ -1,0 +1,8 @@
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stringek példe_3 keresés\bin\Debug\stringek példe_3 keresés.exe.config
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stringek példe_3 keresés\bin\Debug\stringek példe_3 keresés.exe
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stringek példe_3 keresés\bin\Debug\stringek példe_3 keresés.pdb
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stringek példe_3 keresés\obj\Debug\stringek példe_3 keresés.csproj.AssemblyReference.cache
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stringek példe_3 keresés\obj\Debug\stringek példe_3 keresés.csproj.SuggestedBindingRedirects.cache
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stringek példe_3 keresés\obj\Debug\stringek példe_3 keresés.csproj.CoreCompileInputs.cache
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stringek példe_3 keresés\obj\Debug\stringek példe_3 keresés.exe
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stringek példe_3 keresés\obj\Debug\stringek példe_3 keresés.pdb

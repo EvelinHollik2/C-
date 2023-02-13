@@ -1,0 +1,8 @@
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stingek péda_5 STRINGBUILDER\bin\Debug\stingek péda_5 STRINGBUILDER.exe.config
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stingek péda_5 STRINGBUILDER\bin\Debug\stingek péda_5 STRINGBUILDER.exe
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stingek péda_5 STRINGBUILDER\bin\Debug\stingek péda_5 STRINGBUILDER.pdb
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stingek péda_5 STRINGBUILDER\obj\Debug\stingek péda_5 STRINGBUILDER.csproj.AssemblyReference.cache
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stingek péda_5 STRINGBUILDER\obj\Debug\stingek péda_5 STRINGBUILDER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stingek péda_5 STRINGBUILDER\obj\Debug\stingek péda_5 STRINGBUILDER.csproj.CoreCompileInputs.cache
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stingek péda_5 STRINGBUILDER\obj\Debug\stingek péda_5 STRINGBUILDER.exe
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stingek péda_5 STRINGBUILDER\obj\Debug\stingek péda_5 STRINGBUILDER.pdb

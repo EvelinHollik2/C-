@@ -1,0 +1,8 @@
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stringek példa_6 REGULÁRIS KIFEJEZÉSEK\bin\Debug\stringek példa_6 REGULÁRIS KIFEJEZÉSEK.exe.config
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stringek példa_6 REGULÁRIS KIFEJEZÉSEK\bin\Debug\stringek példa_6 REGULÁRIS KIFEJEZÉSEK.exe
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stringek példa_6 REGULÁRIS KIFEJEZÉSEK\bin\Debug\stringek példa_6 REGULÁRIS KIFEJEZÉSEK.pdb
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stringek példa_6 REGULÁRIS KIFEJEZÉSEK\obj\Debug\stringek példa_6 REGULÁRIS KIFEJEZÉSEK.csproj.AssemblyReference.cache
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stringek példa_6 REGULÁRIS KIFEJEZÉSEK\obj\Debug\stringek példa_6 REGULÁRIS KIFEJEZÉSEK.csproj.SuggestedBindingRedirects.cache
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stringek példa_6 REGULÁRIS KIFEJEZÉSEK\obj\Debug\stringek példa_6 REGULÁRIS KIFEJEZÉSEK.csproj.CoreCompileInputs.cache
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stringek példa_6 REGULÁRIS KIFEJEZÉSEK\obj\Debug\stringek példa_6 REGULÁRIS KIFEJEZÉSEK.exe
+C:\Users\Evelin\Desktop\suli\otthoni\C#\stringek példa_1\stringek példa_6 REGULÁRIS KIFEJEZÉSEK\obj\Debug\stringek példa_6 REGULÁRIS KIFEJEZÉSEK.pdb

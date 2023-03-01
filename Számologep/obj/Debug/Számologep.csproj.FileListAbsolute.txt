@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Számologep\bin\Debug\Számologep.exe.config
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Számologep\bin\Debug\Számologep.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Számologep\bin\Debug\Számologep.pdb
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Számologep\obj\Debug\Számologep.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Számologep\obj\Debug\Számologep.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Számologep\obj\Debug\Számologep.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Számologep\obj\Debug\Számologep.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Számologep\obj\Debug\Számologep.pdb

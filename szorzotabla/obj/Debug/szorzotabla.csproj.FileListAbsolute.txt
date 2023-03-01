@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\szorzotabla\bin\Debug\szorzotabla.exe.config
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\szorzotabla\bin\Debug\szorzotabla.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\szorzotabla\bin\Debug\szorzotabla.pdb
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\szorzotabla\obj\Debug\szorzotabla.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\szorzotabla\obj\Debug\szorzotabla.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\szorzotabla\obj\Debug\szorzotabla.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\szorzotabla\obj\Debug\szorzotabla.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\szorzotabla\obj\Debug\szorzotabla.pdb

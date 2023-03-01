@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Teglalap Evelin\bin\Debug\Teglalap Evelin.exe.config
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Teglalap Evelin\bin\Debug\Teglalap Evelin.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Teglalap Evelin\bin\Debug\Teglalap Evelin.pdb
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Teglalap Evelin\obj\Debug\Teglalap Evelin.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Teglalap Evelin\obj\Debug\Teglalap Evelin.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Teglalap Evelin\obj\Debug\Teglalap Evelin.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Teglalap Evelin\obj\Debug\Teglalap Evelin.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Teglalap Evelin\obj\Debug\Teglalap Evelin.pdb

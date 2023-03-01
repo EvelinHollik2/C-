@@ -1,0 +1,13 @@
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\StringMetods\bin\Debug\StringMetods.exe.config
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\StringMetods\bin\Debug\StringMetods.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\StringMetods\bin\Debug\StringMetods.pdb
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\StringMetods\obj\Debug\StringMetods.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\StringMetods\obj\Debug\StringMetods.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\StringMetods\obj\Debug\StringMetods.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\StringMetods\obj\Debug\StringMetods.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\StringMetods\obj\Debug\StringMetods.pdb
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\StringMetods\obj\Debug\StringMetods.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\StringMetods\obj\Debug\StringMetods.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\StringMetods\obj\Debug\StringMetods.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\StringMetods\obj\Debug\StringMetods.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\StringMetods\obj\Debug\StringMetods.pdb

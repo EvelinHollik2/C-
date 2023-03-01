@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\negyszog\bin\Debug\negyszog.exe.config
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\negyszog\bin\Debug\negyszog.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\negyszog\bin\Debug\negyszog.pdb
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\negyszog\obj\Debug\negyszog.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\negyszog\obj\Debug\negyszog.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\negyszog\obj\Debug\negyszog.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\negyszog\obj\Debug\negyszog.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\negyszog\obj\Debug\negyszog.pdb

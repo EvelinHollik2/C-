@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\kor\bin\Debug\kor.exe.config
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\kor\bin\Debug\kor.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\kor\bin\Debug\kor.pdb
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\kor\obj\Debug\kor.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\kor\obj\Debug\kor.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\kor\obj\Debug\kor.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\kor\obj\Debug\kor.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\kor\obj\Debug\kor.pdb

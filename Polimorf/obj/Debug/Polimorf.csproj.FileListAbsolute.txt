@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Polimorf\bin\Debug\Polimorf.exe.config
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Polimorf\bin\Debug\Polimorf.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Polimorf\bin\Debug\Polimorf.pdb
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Polimorf\obj\Debug\Polimorf.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Polimorf\obj\Debug\Polimorf.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Polimorf\obj\Debug\Polimorf.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Polimorf\obj\Debug\Polimorf.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Polimorf\obj\Debug\Polimorf.pdb

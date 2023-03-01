@@ -1,0 +1,16 @@
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\Mátrix\bin\Debug\Mátrix.exe.config
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\Mátrix\bin\Debug\Mátrix.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\Mátrix\bin\Debug\Mátrix.pdb
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\Mátrix\obj\Debug\Mátrix.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\Mátrix\obj\Debug\Mátrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\Mátrix\obj\Debug\Mátrix.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\Mátrix\obj\Debug\Mátrix.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\Mátrix\obj\Debug\Mátrix.pdb
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Mátrix\bin\Debug\Mátrix.exe.config
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Mátrix\bin\Debug\Mátrix.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Mátrix\bin\Debug\Mátrix.pdb
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Mátrix\obj\Debug\Mátrix.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Mátrix\obj\Debug\Mátrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Mátrix\obj\Debug\Mátrix.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Mátrix\obj\Debug\Mátrix.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Mátrix\obj\Debug\Mátrix.pdb

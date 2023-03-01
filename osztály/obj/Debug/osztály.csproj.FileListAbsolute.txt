@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\osztály\bin\Debug\osztály.exe.config
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\osztály\bin\Debug\osztály.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\osztály\bin\Debug\osztály.pdb
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\osztály\obj\Debug\osztály.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\osztály\obj\Debug\osztály.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\osztály\obj\Debug\osztály.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\osztály\obj\Debug\osztály.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\osztály\obj\Debug\osztály.pdb

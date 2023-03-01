@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\StringDemo\bin\Debug\StringDemo.exe.config
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\StringDemo\bin\Debug\StringDemo.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\StringDemo\bin\Debug\StringDemo.pdb
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\StringDemo\obj\Debug\StringDemo.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\StringDemo\obj\Debug\StringDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\StringDemo\obj\Debug\StringDemo.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\StringDemo\obj\Debug\StringDemo.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereges C\StringDemo\obj\Debug\StringDemo.pdb

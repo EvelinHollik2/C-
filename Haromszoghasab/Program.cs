@@ -4,46 +4,50 @@ namespace Haromszoghasab
 {
     class Haromszog
     {
-        private int a;
-        private int b;
-        private int c;
-        private int terulet;
-        private int kerulet;
+        private double a;
+        private double b;
+        private double c;
+        private double terulet;
+        private double kerulet;
 
         public Haromszog() { }
-        public Haromszog(int a, int b, int c)
+        public Haromszog(double a, double b, double c)
         {
             this.a = a;
             this.b = b;
             this.c = c;
         }
-        public void setA(int a) { this.a = a; }
-        public void setB(int b) { this.b = b; }
-        public void setC(int c) { this.c = c; }
-        public int getA() { return this.a; }
-        public int getB() { return this.b; }
-        public int getC() { return this.c; }
+        public void setA(double a) { this.a = a; }
+        public void setB(double b) { this.b = b; }
+        public void setC(double c) { this.c = c; }
+        public double getA() { return this.a; }
+        public double getB() { return this.b; }
+        public double getC() { return this.c; }
 
 
         public void setKerulet()
         { this.kerulet = a + b + c; }
-        public int getKerulet()
+        public double getKerulet()
         { return this.kerulet; }
         public void setTerulet()
-        { this.terulet = }
-        public int getTerulet()
+        { 
+            double s = (this.a + this.b + this.c) / 2;
+            this.terulet = Math.Round(Math.Sqrt(s * (s - this.a) * (s - this.b) * (s - this.c)), 2);
+        }
+        public double getTerulet()
         { return this.terulet; }
     }
+
     class Hhasab : Haromszog
     {
-        private int m;
-        private int terfogat;
-        private int felszin;
+        private double m;
+        private double terfogat;
+        private double felszin;
 
         public Hhasab() : base() { }
-        public Hhasab(int a, int b, int c, int m) : base(a, b, c)
+        public Hhasab(double a, double b, double c, double m) : base(a, b, c)
         { this.m = m; }
-        public void setM2(int m) { this.m = m; }
+        public void setM2(double m) { this.m = m; }
         public void setHaromszog()
         {
             base.setKerulet();
@@ -53,8 +57,8 @@ namespace Haromszoghasab
         { this.terfogat = base.getTerulet() * this.m; }
         public void setFelszin()
         { this.felszin = base.getKerulet() * this.m + 2 * base.getTerulet(); }
-        public int getTerfogat() { return this.terfogat; }
-        public int getFelszin() { return this.felszin; }
+        public double getTerfogat() { return this.terfogat; }
+        public double getFelszin() { return this.felszin; }
     }
 
     internal class Program
@@ -97,7 +101,7 @@ namespace Haromszoghasab
                 Console.WriteLine($"A h1 háromszög területe ={obj.getTerulet()}, kerület = {obj.getKerulet()}");
 
         }
-        static private void kiir(int a, int b, int c, int m)
+        static private void kiir(double a, double b, double c, double m)
         {
         }
 

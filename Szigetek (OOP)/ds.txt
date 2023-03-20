@@ -1,0 +1,20 @@
+            while (i < this.data.Length)
+            {
+                if (this.data[i] == '1')
+                {
+                    ++this.islandCount;
+                    int j = i;
+                    int tmp = 0; //sziget beljesét gyűjti
+                    while (j < this.data.Length && this.data[j] == '1')
+                    {
+                        ++j;
+                        ++tmp;
+                    }
+                    i = j;
+                    if (tmp > this.maxIslandLength) { this.maxIslandLength = tmp; }
+                }
+                else
+                {
+                    ++i;
+                }
+            }

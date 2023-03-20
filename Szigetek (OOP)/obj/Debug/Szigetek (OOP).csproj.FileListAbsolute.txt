@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Szigetek (OOP)\bin\Debug\Szigetek (OOP).exe.config
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Szigetek (OOP)\bin\Debug\Szigetek (OOP).exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Szigetek (OOP)\bin\Debug\Szigetek (OOP).pdb
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Szigetek (OOP)\obj\Debug\Szigetek (OOP).csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Szigetek (OOP)\obj\Debug\Szigetek (OOP).csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Szigetek (OOP)\obj\Debug\Szigetek (OOP).csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Szigetek (OOP)\obj\Debug\Szigetek (OOP).exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Szigetek (OOP)\obj\Debug\Szigetek (OOP).pdb

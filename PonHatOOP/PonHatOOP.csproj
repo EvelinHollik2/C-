@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{89DD3767-1F0E-4CA0-B3DD-0327110BED56}</ProjectGuid>
+    <ProjectGuid>{1BAF9B2B-D529-44FD-89D1-ED9062C1BE32}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>PonHatOOP</RootNamespace>
     <AssemblyName>PonHatOOP</AssemblyName>

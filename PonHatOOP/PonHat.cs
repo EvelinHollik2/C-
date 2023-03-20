@@ -6,24 +6,16 @@ using System.Threading.Tasks;
 
 namespace PonHatOOP
 {
-    struct Dolg
-    {
-        public int pnt;
-        public int er;
-    }
     internal class PonHat
     {
-        private int[] adat = null;
-        private int pont;
-        private int jegy1;
-        private int jegy2;
-        private int jegy3;
-        private int jegy4;
-        private int jegy5;
-        private Dolg DolgPont;
+        private int[] pontok;
+        public static string[] jegyek = { "elégtelen", "elégséges", "közepes", "jó", "jeles" };
+        private int pont = 0;
 
-        PonHat(int[] p) { this.adat = p; }
-        public Dolg getPont() { return DolgPont; }
+        public PonHat(int p) { this.pontok = p; }
+
+
+        public PonHat getPont() { return jegyek[pont = -1];}
 
         public void szamitas()
         {
@@ -32,28 +24,13 @@ namespace PonHatOOP
 
         private void setPont()
         {
-            for (int i = 0; i < adat.GetLength(0); i++)
-           
-                if (pont<50)
-                {
-                    pont = jegy1;
-                }
-                if (pont>=50)
-                {
-                    pont = jegy2;
-                }
-                if (pont>=65)
-                {
-                    pont = jegy3;
-                }
-                if (pont>=80)
-                {
-                    pont = jegy4;
-                }
-                if (pont>=90)
-                {
-                    pont = jegy5;
-                }
+            for (int i = 0; i < pontok.GetLength(0); i++)
+
+                if (this.pont >= 0 && this.pont < 50) pont = 1;
+                if (this.pont >= 50 && this.pont < 65) pont = 2;
+                if (this.pont >= 65 && this.pont < 80) pont = 3;
+                if (this.pont >= 80 && this.pont < 90) pont = 4;
+                if (this.pont >= 90 && this.pont < 100) pont = 5;
         }
     }
 }

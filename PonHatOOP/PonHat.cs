@@ -15,7 +15,7 @@ namespace PonHatOOP
         public PonHat(int p) { this.pontok = p; }
 
 
-        public PonHat getPont() { return jegyek[pont = -1];}
+        public PonHat GetPont() { return jegyek[pontok -1];}
 
         public void szamitas()
         {
@@ -31,6 +31,7 @@ namespace PonHatOOP
                 if (this.pont >= 65 && this.pont < 80) pont = 3;
                 if (this.pont >= 80 && this.pont < 90) pont = 4;
                 if (this.pont >= 90 && this.pont < 100) pont = 5;
+                else this.pont = 0;
         }
     }
 }

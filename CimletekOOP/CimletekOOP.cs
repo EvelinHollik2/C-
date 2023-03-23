@@ -10,14 +10,10 @@ namespace CimletekOOP
     {
         static void Main(string[] args)
         {   
+            Cimletek c1=new Cimletek();
+            Console.WriteLine("Írjon be egy összeget: ");
             int pnz = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Írjon be egy összeget: {0}", pnz);
-
-
-            Console.WriteLine("{0} darab {1} Ft-os", mennyiseg);
-
-
+            c1.setCimletHely(pnz);
             Console.ReadLine();
 
         }

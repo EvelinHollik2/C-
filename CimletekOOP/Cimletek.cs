@@ -11,7 +11,6 @@ namespace CimletekOOP
     {
         private int cimlet_hely;
         static int[] penz = { 5, 10, 20, 50, 100, 200, 500, 1000, 2000, 5000, 10000, 20000 };
-        static int pnz = Convert.ToInt32(Console.ReadLine());
 
         public Cimletek() { }
 
@@ -24,17 +23,19 @@ namespace CimletekOOP
             return this.cimlet_hely;
         }
 
-        private void setCimletHely()
+        public void setCimletHely(int cimlet_hely)
         {
-            for (int i = 0; i < penz.Length; i++)
+            this.cimlet_hely= cimlet_hely;
+            int val = 0;
+            for (int i = penz.Length-1; i>=0; i--)
             {
-                while (pnz > 0)
+                while (cimlet_hely >= penz[i])
                 {
-                    int mennyiseg = this.pnz / this.penz(cimlet_hely);
-                    pnz = pnz % this.penz(cimlet_hely);
-                    cimlet_hely++;
+                    cimlet_hely -= penz[i];
+                    val++;
                 }
             }
+            Console.WriteLine(val);
         }
     }
 }

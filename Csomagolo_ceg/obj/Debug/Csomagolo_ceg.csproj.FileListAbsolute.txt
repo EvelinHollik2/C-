@@ -1,0 +1,3 @@
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Csomagolo_ceg\obj\Debug\Csomagolo_ceg.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Csomagolo_ceg\obj\Debug\Csomagolo_ceg.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Csomagolo_ceg\obj\Debug\Csomagolo_ceg.csproj.CoreCompileInputs.cache

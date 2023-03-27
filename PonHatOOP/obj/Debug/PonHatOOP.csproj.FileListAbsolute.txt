@@ -1,8 +1,0 @@
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\PonHatOOP\obj\Debug\PonHatOOP.csproj.AssemblyReference.cache
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\PonHatOOP\obj\Debug\PonHatOOP.csproj.SuggestedBindingRedirects.cache
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\PonHatOOP\obj\Debug\PonHatOOP.csproj.CoreCompileInputs.cache
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\PonHatOOP\bin\Debug\PonHatOOP.exe.config
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\PonHatOOP\bin\Debug\PonHatOOP.exe
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\PonHatOOP\bin\Debug\PonHatOOP.pdb
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\PonHatOOP\obj\Debug\PonHatOOP.exe
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\PonHatOOP\obj\Debug\PonHatOOP.pdb

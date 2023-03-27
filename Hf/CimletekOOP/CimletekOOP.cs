@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,15 +10,11 @@ namespace CimletekOOP
     {
         static void Main(string[] args)
         {   
-            int pnz = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Írjon be egy összeget: {0}", pnz);
-
-
-            Console.WriteLine("{0} darab {1} Ft-os", mennyiseg);
-
-
-            Console.ReadLine();
+            Cimletek c1=new Cimletek(); //Össze kapcsolás: Item & cs
+            Console.WriteLine("Írjon be egy összeget: "); //Adat bekérés
+            int pnz = Convert.ToInt32(Console.ReadLine()); //Érték vissza adás
+            c1.setCimletHely(pnz); //Kiiratom az érték megoldását
+            Console.ReadLine(); //Lezárás
 
         }
     }

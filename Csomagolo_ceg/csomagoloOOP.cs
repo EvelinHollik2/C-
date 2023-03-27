@@ -8,7 +8,6 @@ namespace Csomagolo_ceg
 {
     internal class csomagoloOOP
     {
-                    Console.WriteLine("***Dinnye átmérő számítás***");
             Dinnye h1 = new Dinnye();
             Console.WriteLine("Add meg az átmérőt (CM) :");
             h1.setD(int.Parse(Console.ReadLine()));

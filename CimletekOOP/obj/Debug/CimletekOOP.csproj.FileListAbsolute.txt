@@ -1,8 +1,0 @@
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CimletekOOP\obj\Debug\CimletekOOP.csproj.AssemblyReference.cache
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CimletekOOP\obj\Debug\CimletekOOP.csproj.SuggestedBindingRedirects.cache
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CimletekOOP\obj\Debug\CimletekOOP.csproj.CoreCompileInputs.cache
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CimletekOOP\bin\Debug\CimletekOOP.exe.config
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CimletekOOP\bin\Debug\CimletekOOP.exe
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CimletekOOP\bin\Debug\CimletekOOP.pdb
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CimletekOOP\obj\Debug\CimletekOOP.exe
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CimletekOOP\obj\Debug\CimletekOOP.pdb

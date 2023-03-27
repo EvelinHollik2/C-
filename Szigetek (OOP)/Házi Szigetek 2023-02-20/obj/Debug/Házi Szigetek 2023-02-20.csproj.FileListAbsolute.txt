@@ -1,8 +1,0 @@
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Házi Szigetek 2023-02-20\obj\Debug\Házi Szigetek 2023-02-20.csproj.AssemblyReference.cache
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Házi Szigetek 2023-02-20\obj\Debug\Házi Szigetek 2023-02-20.csproj.SuggestedBindingRedirects.cache
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Házi Szigetek 2023-02-20\obj\Debug\Házi Szigetek 2023-02-20.csproj.CoreCompileInputs.cache
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Házi Szigetek 2023-02-20\bin\Debug\Házi Szigetek 2023-02-20.exe.config
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Házi Szigetek 2023-02-20\bin\Debug\Házi Szigetek 2023-02-20.exe
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Házi Szigetek 2023-02-20\bin\Debug\Házi Szigetek 2023-02-20.pdb
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Házi Szigetek 2023-02-20\obj\Debug\Házi Szigetek 2023-02-20.exe
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Házi Szigetek 2023-02-20\obj\Debug\Házi Szigetek 2023-02-20.pdb

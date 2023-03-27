@@ -1,0 +1,3 @@
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CimletekOOP\obj\Debug\CimletekOOP.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CimletekOOP\obj\Debug\CimletekOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CimletekOOP\obj\Debug\CimletekOOP.csproj.CoreCompileInputs.cache

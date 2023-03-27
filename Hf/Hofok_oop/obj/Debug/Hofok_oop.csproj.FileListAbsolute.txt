@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Hofok_oop\bin\Debug\Hofok_oop.exe.config
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Hofok_oop\bin\Debug\Hofok_oop.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Hofok_oop\bin\Debug\Hofok_oop.pdb
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Hofok_oop\obj\Debug\Hofok_oop.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Hofok_oop\obj\Debug\Hofok_oop.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Hofok_oop\obj\Debug\Hofok_oop.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Hofok_oop\obj\Debug\Hofok_oop.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Hofok_oop\obj\Debug\Hofok_oop.pdb

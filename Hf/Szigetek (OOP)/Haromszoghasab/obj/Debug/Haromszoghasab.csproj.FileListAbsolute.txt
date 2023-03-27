@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Haromszoghasab\bin\Debug\Haromszoghasab.exe.config
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Haromszoghasab\bin\Debug\Haromszoghasab.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Haromszoghasab\bin\Debug\Haromszoghasab.pdb
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Haromszoghasab\obj\Debug\Haromszoghasab.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Haromszoghasab\obj\Debug\Haromszoghasab.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Haromszoghasab\obj\Debug\Haromszoghasab.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Haromszoghasab\obj\Debug\Haromszoghasab.exe
+C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\Haromszoghasab\obj\Debug\Haromszoghasab.pdb

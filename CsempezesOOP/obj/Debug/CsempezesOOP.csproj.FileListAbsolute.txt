@@ -1,8 +1,0 @@
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CsempezesOOP\bin\Debug\CsempezesOOP.exe.config
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CsempezesOOP\bin\Debug\CsempezesOOP.exe
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CsempezesOOP\bin\Debug\CsempezesOOP.pdb
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CsempezesOOP\obj\Debug\CsempezesOOP.csproj.AssemblyReference.cache
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CsempezesOOP\obj\Debug\CsempezesOOP.csproj.SuggestedBindingRedirects.cache
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CsempezesOOP\obj\Debug\CsempezesOOP.csproj.CoreCompileInputs.cache
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CsempezesOOP\obj\Debug\CsempezesOOP.exe
-C:\Users\hollik.evelin\Desktop\KAR C#\Bereges C\CsempezesOOP\obj\Debug\CsempezesOOP.pdb

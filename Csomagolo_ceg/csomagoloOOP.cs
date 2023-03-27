@@ -8,33 +8,15 @@ namespace Csomagolo_ceg
 {
     internal class csomagoloOOP
     {
-        private double osszeg;
-        private double atmero;
-        private double db;
-        private double pi = 3.14;
-
-        public csomagoloOOP() { }
-        public csomagoloOOP(double osszeg)
-        { 
-            this.osszeg = osszeg;
+                    Console.WriteLine("***Dinnye átmérő számítás***");
+            Dinnye h1 = new Dinnye();
+            Console.WriteLine("Add meg az átmérőt (CM) :");
+            h1.setD(int.Parse(Console.ReadLine()));
+            Console.WriteLine("Add meg a darabszámot:");
+            h1.setDB(int.Parse(Console.ReadLine()));
+            h1.setOsszeg();
+            Console.WriteLine("A Dinnyékhez ennyi {0} méter szalagra lesz szükséged", h1.getOsszeg());
+            Console.ReadKey();
         }
-
-        public double getOsszeg()
-        {
-            return this.osszeg;
-        }
-
-
-
-        public void setOsszeg(double osszeg)
-        {
-            this.osszeg = osszeg;
-            if (true)
-            {
-                osszeg = (float) ((((atmero* pi) * 2) + 60) * db) / 100;
-            }
-        }
-
-
     }
 }

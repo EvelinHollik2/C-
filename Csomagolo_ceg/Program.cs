@@ -10,12 +10,13 @@ namespace Csomagolo_ceg
     {
         static void Main(string[] args)
         {
-            csomagoloOOP c1= new csomagoloOOP();
-            Console.Write("Add meg a dinnye átmérőjét:");
-            new d=Convert.ToInt32(Console.ReadLine());
-            c1
-            Console.Write("Hány dinnyét szeretnél? ");
-            Console.WriteLine("A dinnyének ennyi méret szalagra lesz szüksége: {0}", osszeg);
+            Dinnye h1 = new Dinnye();
+            Console.WriteLine("Add meg az átmérőt (CM) :");
+            h1.setD(int.Parse(Console.ReadLine()));
+            Console.WriteLine("Add meg a darabszámot:");
+            h1.setDB(int.Parse(Console.ReadLine()));
+            h1.setOsszeg();
+            Console.WriteLine("A Dinnyékhez ennyi {0} méter szalagra lesz szükséged", h1.getOsszeg());
             Console.ReadKey();
         }
     }

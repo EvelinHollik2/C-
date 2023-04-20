@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\C#\Bereg\FilesIO\bin\Debug\FilesIO.exe.config
+C:\Users\hollik.evelin\Desktop\C#\Bereg\FilesIO\bin\Debug\FilesIO.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereg\FilesIO\bin\Debug\FilesIO.pdb
+C:\Users\hollik.evelin\Desktop\C#\Bereg\FilesIO\obj\Debug\FilesIO.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereg\FilesIO\obj\Debug\FilesIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereg\FilesIO\obj\Debug\FilesIO.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\C#\Bereg\FilesIO\obj\Debug\FilesIO.exe
+C:\Users\hollik.evelin\Desktop\C#\Bereg\FilesIO\obj\Debug\FilesIO.pdb

@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\KAR\C--main\Dolgozat 2023-05-22\bin\Debug\Dolgozat 2023-05-22.exe.config
+C:\Users\hollik.evelin\Desktop\KAR\C--main\Dolgozat 2023-05-22\bin\Debug\Dolgozat 2023-05-22.exe
+C:\Users\hollik.evelin\Desktop\KAR\C--main\Dolgozat 2023-05-22\bin\Debug\Dolgozat 2023-05-22.pdb
+C:\Users\hollik.evelin\Desktop\KAR\C--main\Dolgozat 2023-05-22\obj\Debug\Dolgozat 2023-05-22.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\Dolgozat 2023-05-22\obj\Debug\Dolgozat 2023-05-22.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\Dolgozat 2023-05-22\obj\Debug\Dolgozat 2023-05-22.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\Dolgozat 2023-05-22\obj\Debug\Dolgozat 2023-05-22.exe
+C:\Users\hollik.evelin\Desktop\KAR\C--main\Dolgozat 2023-05-22\obj\Debug\Dolgozat 2023-05-22.pdb

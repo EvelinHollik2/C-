@@ -1,0 +1,17 @@
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\bin\Debug\net6.0-windows\18.1_Ugrik.exe
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\bin\Debug\net6.0-windows\18.1_Ugrik.deps.json
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\bin\Debug\net6.0-windows\18.1_Ugrik.runtimeconfig.json
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\bin\Debug\net6.0-windows\18.1_Ugrik.dll
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\bin\Debug\net6.0-windows\18.1_Ugrik.pdb
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\obj\Debug\net6.0-windows\18.1_Ugrik.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\obj\Debug\net6.0-windows\_18._1_Ugrik.Form1.resources
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\obj\Debug\net6.0-windows\18.1_Ugrik.csproj.GenerateResource.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\obj\Debug\net6.0-windows\18.1_Ugrik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\obj\Debug\net6.0-windows\18.1_Ugrik.AssemblyInfoInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\obj\Debug\net6.0-windows\18.1_Ugrik.AssemblyInfo.cs
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\obj\Debug\net6.0-windows\18.1_Ugrik.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\obj\Debug\net6.0-windows\18.1_Ugrik.dll
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\obj\Debug\net6.0-windows\refint\18.1_Ugrik.dll
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\obj\Debug\net6.0-windows\18.1_Ugrik.pdb
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\obj\Debug\net6.0-windows\18.1_Ugrik.genruntimeconfig.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.1_Ugrik\obj\Debug\net6.0-windows\ref\18.1_Ugrik.dll

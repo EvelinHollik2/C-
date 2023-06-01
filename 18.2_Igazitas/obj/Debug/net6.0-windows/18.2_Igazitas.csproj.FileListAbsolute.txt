@@ -1,0 +1,17 @@
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\bin\Debug\net6.0-windows\18.2_Igazitas.exe
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\bin\Debug\net6.0-windows\18.2_Igazitas.deps.json
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\bin\Debug\net6.0-windows\18.2_Igazitas.runtimeconfig.json
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\bin\Debug\net6.0-windows\18.2_Igazitas.dll
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\bin\Debug\net6.0-windows\18.2_Igazitas.pdb
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\obj\Debug\net6.0-windows\18.2_Igazitas.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\obj\Debug\net6.0-windows\_18._2_Igazitas.Form1.resources
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\obj\Debug\net6.0-windows\18.2_Igazitas.csproj.GenerateResource.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\obj\Debug\net6.0-windows\18.2_Igazitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\obj\Debug\net6.0-windows\18.2_Igazitas.AssemblyInfoInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\obj\Debug\net6.0-windows\18.2_Igazitas.AssemblyInfo.cs
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\obj\Debug\net6.0-windows\18.2_Igazitas.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\obj\Debug\net6.0-windows\18.2_Igazitas.dll
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\obj\Debug\net6.0-windows\refint\18.2_Igazitas.dll
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\obj\Debug\net6.0-windows\18.2_Igazitas.pdb
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\obj\Debug\net6.0-windows\18.2_Igazitas.genruntimeconfig.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.2_Igazitas\obj\Debug\net6.0-windows\ref\18.2_Igazitas.dll

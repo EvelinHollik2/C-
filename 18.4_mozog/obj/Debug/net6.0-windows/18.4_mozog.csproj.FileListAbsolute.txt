@@ -1,0 +1,17 @@
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\bin\Debug\net6.0-windows\18.4_mozog.exe
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\bin\Debug\net6.0-windows\18.4_mozog.deps.json
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\bin\Debug\net6.0-windows\18.4_mozog.runtimeconfig.json
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\bin\Debug\net6.0-windows\18.4_mozog.dll
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\bin\Debug\net6.0-windows\18.4_mozog.pdb
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\obj\Debug\net6.0-windows\18.4_mozog.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\obj\Debug\net6.0-windows\_18._4_mozog.Form1.resources
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\obj\Debug\net6.0-windows\18.4_mozog.csproj.GenerateResource.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\obj\Debug\net6.0-windows\18.4_mozog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\obj\Debug\net6.0-windows\18.4_mozog.AssemblyInfoInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\obj\Debug\net6.0-windows\18.4_mozog.AssemblyInfo.cs
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\obj\Debug\net6.0-windows\18.4_mozog.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\obj\Debug\net6.0-windows\18.4_mozog.dll
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\obj\Debug\net6.0-windows\refint\18.4_mozog.dll
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\obj\Debug\net6.0-windows\18.4_mozog.pdb
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\obj\Debug\net6.0-windows\18.4_mozog.genruntimeconfig.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18.4_mozog\obj\Debug\net6.0-windows\ref\18.4_mozog.dll

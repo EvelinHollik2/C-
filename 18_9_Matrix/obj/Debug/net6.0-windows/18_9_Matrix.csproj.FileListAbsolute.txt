@@ -1,0 +1,17 @@
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\bin\Debug\net6.0-windows\18_9_Matrix.exe
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\bin\Debug\net6.0-windows\18_9_Matrix.deps.json
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\bin\Debug\net6.0-windows\18_9_Matrix.runtimeconfig.json
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\bin\Debug\net6.0-windows\18_9_Matrix.dll
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\bin\Debug\net6.0-windows\18_9_Matrix.pdb
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\obj\Debug\net6.0-windows\18_9_Matrix.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\obj\Debug\net6.0-windows\_18_9_Matrix.Form1.resources
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\obj\Debug\net6.0-windows\18_9_Matrix.csproj.GenerateResource.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\obj\Debug\net6.0-windows\18_9_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\obj\Debug\net6.0-windows\18_9_Matrix.AssemblyInfoInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\obj\Debug\net6.0-windows\18_9_Matrix.AssemblyInfo.cs
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\obj\Debug\net6.0-windows\18_9_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\obj\Debug\net6.0-windows\18_9_Matrix.dll
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\obj\Debug\net6.0-windows\refint\18_9_Matrix.dll
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\obj\Debug\net6.0-windows\18_9_Matrix.pdb
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\obj\Debug\net6.0-windows\18_9_Matrix.genruntimeconfig.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_9_Matrix\obj\Debug\net6.0-windows\ref\18_9_Matrix.dll

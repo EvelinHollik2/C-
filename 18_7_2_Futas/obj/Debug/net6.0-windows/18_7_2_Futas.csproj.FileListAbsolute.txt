@@ -1,0 +1,17 @@
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\bin\Debug\net6.0-windows\18_7_2_Futas.exe
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\bin\Debug\net6.0-windows\18_7_2_Futas.deps.json
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\bin\Debug\net6.0-windows\18_7_2_Futas.runtimeconfig.json
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\bin\Debug\net6.0-windows\18_7_2_Futas.dll
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\bin\Debug\net6.0-windows\18_7_2_Futas.pdb
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\obj\Debug\net6.0-windows\18_7_2_Futas.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\obj\Debug\net6.0-windows\_18_7_2_Futas.Form1.resources
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\obj\Debug\net6.0-windows\18_7_2_Futas.csproj.GenerateResource.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\obj\Debug\net6.0-windows\18_7_2_Futas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\obj\Debug\net6.0-windows\18_7_2_Futas.AssemblyInfoInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\obj\Debug\net6.0-windows\18_7_2_Futas.AssemblyInfo.cs
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\obj\Debug\net6.0-windows\18_7_2_Futas.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\obj\Debug\net6.0-windows\18_7_2_Futas.dll
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\obj\Debug\net6.0-windows\refint\18_7_2_Futas.dll
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\obj\Debug\net6.0-windows\18_7_2_Futas.pdb
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\obj\Debug\net6.0-windows\18_7_2_Futas.genruntimeconfig.cache
+C:\Users\hollik.evelin\Desktop\KAR\C--main\18_7_2_Futas\obj\Debug\net6.0-windows\ref\18_7_2_Futas.dll
